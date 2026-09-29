@@ -2,7 +2,7 @@ name: Deploy Black Hole Museum
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
